@@ -1,5 +1,16 @@
 # Frederic Schuller's Lectures on Quantum Theory
 
+I took over these notes from Simon and finished the course notes as well as made some additions to the material already typed up. My thanks to both Simon Rea and Dr. Schuller. 
+
+For the pdf version of these notes as well as other notes by myself, visit my blogsite: 
+
+https://richie291.wixsite.com/theoreticalphysics
+
+Richie Dadhley 
+
+
+Simon's Message:
+
 This is the LaTeX source code for my lecture notes to accompany Frederic Schuller's course on Quantum Theory, taught in the summer of 2015 at the Friedrich-Alexander-Universität Erlangen-Nürnberg as part of the Elite Graduate Programme.
 
 The entire course is hosted on YouTube at the following address:
@@ -17,7 +28,3 @@ http://mathswithphysics.blogspot.com
 My gratitude goes to Dr. Schuller for lecturing this course and for making it available on YouTube.
 
 Simon Rea
-
-I took over these notes from Simon and finished the course notes as well as made some additions to the material already typed up. My thanks to both Simon and Dr. Schuller. 
-
-Richie Dadhley 
