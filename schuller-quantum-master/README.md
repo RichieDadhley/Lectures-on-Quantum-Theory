@@ -17,3 +17,7 @@ http://mathswithphysics.blogspot.com
 My gratitude goes to Dr. Schuller for lecturing this course and for making it available on YouTube.
 
 Simon Rea
+
+I took over these notes from Simon and finished the course notes as well as made some additions to the material already typed up. My thanks to both Simon and Dr. Schuller. 
+
+Richie Dadhley 
